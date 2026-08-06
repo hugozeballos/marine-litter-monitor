@@ -36,4 +36,4 @@ Basura (ESMOI / Universidad Católica del Norte), February–May 2026.
 ## Live demo
 
 Once GitHub Pages is enabled for this repo, the dashboard will be live at:
-`https://<your-username>.github.io/marine-litter-monitor/`
+https://hugozeballos.github.io/marine-litter-monitor/
